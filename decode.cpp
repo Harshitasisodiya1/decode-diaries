@@ -58,13 +58,13 @@ void gardenerWork(int N) {
 
     int totalFlowers = sun + moon + star + crystalFlowers + wildleafs;
 
-    cout << "🌻 Sunbuds: " << sun << endl;
-    cout << "🌙 Moonblossoms: " << moon << endl;
-    cout << "⭐ Starroots: " << star << endl;
-    cout << "💎 Crystal Flowers: " << crystalFlowers << endl;
-    cout << "🍃 Wildleafs: " << wildleafs << endl;
-    cout << "🛏 Rest Days: " << wait << endl;
-    cout << "🌼 Total Flowers Planted: " << totalFlowers << endl;
+    cout << " Sunbuds are: " << sun << endl;
+    cout << " Moonblossoms are: " << moon << endl;
+    cout << " Starroots are: " << star << endl;
+    cout << " Crystal Flowers are: " << crystalFlowers << endl;
+    cout << " Wildleafs are: " << wildleafs << endl;
+    cout << " Rest Days are: " << wait << endl;
+    cout << " Total Flowers Planted are: " << totalFlowers << endl;
 }
 
 int main() {
